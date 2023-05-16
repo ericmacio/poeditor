@@ -6,6 +6,7 @@
     },
     "login": {
         "field1": "firstname",
-        "field2": "lastname"
+        "field2": "lastname",
+        "field3": "address"
     }
 }
