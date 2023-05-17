@@ -1,7 +1,7 @@
 {
     "app": {
-        "name": "smartlube",
-        "description": "automatic creation of order",
+        "name": "Smartlube requisition module (french)",
+        "description": "Creation automatique de quotation",
         "text": "Welcome to the Smartlube application"
     },
     "login": {
