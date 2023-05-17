@@ -1,0 +1,13 @@
+{
+    "app": {
+        "name": "Smartlube requisition module",
+        "description": "automatic creation of order",
+        "text": "Welcome to the Smartlube application"
+    },
+    "login": {
+        "field1": "firstname",
+        "field2": "lastname",
+        "field3": "address",
+        "field4": "phone"
+    }
+}
