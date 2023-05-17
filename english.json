@@ -7,6 +7,7 @@
     "login": {
         "field1": "firstname",
         "field2": "lastname",
-        "field3": "address"
+        "field3": "address",
+        "filel4": "phone"
     }
 }
