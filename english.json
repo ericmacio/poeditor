@@ -8,6 +8,6 @@
         "field1": "firstname",
         "field2": "lastname",
         "field3": "address",
-        "filed5": "email"
+        "field4": "phone"
     }
 }
