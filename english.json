@@ -1,6 +1,6 @@
 {
     "app": {
-        "name": "Smartlube requisition module",
+        "name": "Smartlube requisition module version 2",
         "description": "automatic creation of order",
         "text": "Welcome to the Smartlube application"
     },
